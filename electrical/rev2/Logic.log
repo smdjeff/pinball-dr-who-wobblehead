@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 8/13/2011 8:15:03 PM
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -e C:\PADS Projects\Logic.log -r p -a PART,NET -l PCB,NETCLASS,NET
+0 msec
+0 msec
+Reading the OLD DESIGN
+There are 30 parts in the design
+There are 15 signals in the design
+There are 68 pins in the design
+15 msec
+Reading the NEW DESIGN
+There are 28 parts in the design
+There are 15 signals in the design
+There are 66 pins in the design
+0 msec
+Final cost=200
+Partitioning - 0 msec
+Final Matching - 0 msec
+Deleted pins: 3,  Added pins: 1

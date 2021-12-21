@@ -1,0 +1,36 @@
+|-------------------------------------------------------------------------------|
+|Bill Of Materials for wobblehead.sch on Sat Jun 18 19:30:16 2011               |
+|-------------------------------------------------------------------------------|
+|Item|Qty |Reference|Part Name     |Manufacturer  |Description                  |
+|----+----+---------+--------------+--------------+-----------------------------|
+|1   |2   |D1 D3    |BAV99         |              |                             |
+|2   |2   |C4-5     |CAP0805,0.1uF |IPC SM-782    |SURFACE MOUNT CAPACITOR 0.048|
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|3   |1   |C2       |CAP0805,1.0uF |IPC SM-782    |SURFACE MOUNT CAPACITOR 0.048|
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|4   |1   |C1       |CAP0805,100uF |IPC SM-782    |SURFACE MOUNT CAPACITOR 0.048|
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|5   |1   |C3       |CAP0805,1uF   |IPC SM-782    |SURFACE MOUNT CAPACITOR 0.048|
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|6   |1   |U1       |CDBHD2100     |              |                             |
+|7   |4   |TP1-4    |CON-SIP-1P    |              |GENERIC 1 PIN CONNECTOR      |
+|    |    |         |              |              |(PROBE)                      |
+|8   |4   |H1-4     |HOLE6         |              |GENERIC 1 PIN CONNECTOR      |
+|    |    |         |              |              |(PROBE)                      |
+|9   |1   |D2       |LED           |              |LIGHT EMITTING DIODE         |
+|10  |2   |J3-4     |MOLEX1-2      |IPC SM-782    |SURFACE MOUNT 10 POS. HEADER |
+|11  |3   |J1-2 J5  |MOLEX1-3      |IPC SM-782    |SURFACE MOUNT 10 POS. HEADER |
+|12  |1   |TP5      |MOLEX1-6      |IPC SM-782    |SURFACE MOUNT 10 POS. HEADER |
+|13  |1   |U3       |PIC10F200     |              |                             |
+|14  |2   |R3-4     |RES0805,100   |IPC SM-782    |SURFACE MOUNT RESISTOR 0.048 |
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|15  |1   |R5       |RES0805,100K  |IPC SM-782    |SURFACE MOUNT RESISTOR 0.048 |
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|16  |1   |R1       |RES0805,10k   |IPC SM-782    |SURFACE MOUNT RESISTOR 0.048 |
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|17  |1   |R2       |RES0805,1M    |IPC SM-782    |SURFACE MOUNT RESISTOR 0.048 |
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|18  |1   |R6       |RES0805,6K    |IPC SM-782    |SURFACE MOUNT RESISTOR 0.048 |
+|    |    |         |              |STD.          |X 0.079 INCHES               |
+|19  |1   |U2       |TC1055        |              |                             |
+|-------------------------------------------------------------------------------|

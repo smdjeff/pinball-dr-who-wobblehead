@@ -1,0 +1,12 @@
+[2011.06.18 18:35:31] [0000m.00s.140ms] [0] WELCOME
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] iCDB API ver.1.091, 0XsVZbnMvCAokxoWCsr9pA, build:426267 created 2010-10-27 08:24:21, sources stamp:0XsVZbnMvCAokxoWCsr9pA
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Base flow version [7.9.1]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] GBS Install Id [17460], Flow Id [PADS 9.3], Full Flow Name [PADS 9.3], Exact Access Date [Dec 1 2010]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Machine [cash-f32cdff50a]  User [Administrator]  PID [1936]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 2 (build 2600)]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Current working dir [C:\PADS Projects]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] PATH [C:\MentorGraphics\9.3PADS\SDD_HOME\common\win32\bin;C:\MentorGraphics\9.3PADS\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:/MentorGraphics/9.3PADS/MGC_HOME.ixn/bin;C:/MentorGraphics/9.3PADS/MGC_HOME.ixn/lib;C:\MentorGraphics\9.3PADS\MGC_HOME.ixn\bin;C:\MentorGraphics\9.3PADS\MGC_HOME.ixn\lib;]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] SDD_HOME [C:\MentorGraphics\9.3PADS\SDD_HOME] on file system [NTFS]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] SDD_PLATFORM [win32]
+[2011.06.18 18:35:31] [0000m.00s.140ms] [1] Local iCDB working dir [null\iCDB] on file system [NTFS]
